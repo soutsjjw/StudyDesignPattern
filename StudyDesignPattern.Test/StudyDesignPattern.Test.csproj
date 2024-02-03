@@ -24,4 +24,10 @@
     <ProjectReference Include="..\StudyDesignPattern.Src\StudyDesignPattern.Src.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="decorator\test.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
